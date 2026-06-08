@@ -249,7 +249,7 @@ COMPARITR ENLACE DEL CATALOGO (MODIFICAR)
 */
 async function compartirCatalogo(btn) {
     // Definimos tu URL fija
-    const url = "https://as";
+    const url = "https://tincoficial.github.io/sabor-clandestino-001/";
     
     const data = {
         title: 'Chicharronera Casa Blanca',
