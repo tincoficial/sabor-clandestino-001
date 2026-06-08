@@ -252,7 +252,7 @@ async function compartirCatalogo(btn) {
     const url = "https://tincoficial.github.io/sabor-clandestino-001/";
     
     const data = {
-        title: 'Chicharronera Casa Blanca',
+        title: 'Pizzería Sabor Clandestino',
         text: '¡Mira nuestro catálogo!',
         url: url
     };
@@ -285,7 +285,7 @@ async function compartirProducto(btn) {
     const urlCompartible = `${window.location.origin}${window.location.pathname}?producto=${encodeURIComponent(nombre)}`;
     
     const data = {
-        title: 'Chicharronera Casa Blanca',
+        title: 'Pizzería Sabor Clandestino',
         text: `¡Tienes que probar ${nombre}!`,
         url: urlCompartible
     };
