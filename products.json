@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "name": "Pizza de Pepperoni",
+        "price": 350,
+        "description": [
+            ""
+        ],
+        "image": "productos/pepperoni.webp",
+        "category": "Principales",
+        "badge": "Más vendido"
+    },
+    {
+        "id": 2,
+        "name": "Pizza Hawaiana",
+        "price": 350,
+        "description": [
+            ""
+        ],
+        "image": "productos/hawaiana.jpg",
+        "category": "Principales",
+        "badge": ""
+    },
+    {
+        "id": 3,
+        "name": "Pizza con hongos",
+        "price": 450,
+        "description": [
+            ""
+        ],
+        "image": "productos/hongos.png",
+        "category": "Principales",
+        "badge": ""
+    },
+    {
+        "id": 4,
+        "name": "Pizza Española",
+        "price": 380,
+        "description": [
+            ""
+        ],
+        "image": "productos/española.jpg",
+        "category": "Principales",
+        "badge": ""
+    },
+    {
+        "id": 5,
+        "name": "Pizza de carne",
+        "price": 450,
+        "description": [
+            ""
+        ],
+        "image": "productos/carne.jpg",
+        "category": "Principales",
+        "badge": ""
+    },
+    {
+        "id": 6,
+        "name": "Pizza de queso",
+        "price": 350,
+        "description": [
+            ""
+        ],
+        "image": "productos/queso.jpg",
+        "category": "Principales",
+        "badge": "Nuevo"
+    },
+    {
+        "id": 7,
+        "name": "Gaseosas de 500ml",
+        "price": 50,
+        "description": [
+            ""
+        ],
+        "image": "productos/gaseosa-500ml.png",
+        "category": "Bebidas",
+        "badge": ""
+    }
+]
