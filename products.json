@@ -4,7 +4,15 @@
         "name": "Pizza de Pepperoni",
         "price": 350,
         "description": [
-            ""
+            "Pizza clásica preparada con salsa de tomate, abundante queso mozzarella y generosas rodajas de pepperoni, horneada hasta obtener una masa dorada y crujiente.",
+            {
+                "label": "Tamaño",
+                "value": "Mediana"
+            },
+            {
+                "label": "Porciones",
+                "value": "6 personas"
+            }
         ],
         "image": "productos/pepperoni.webp",
         "category": "Principales",
@@ -15,7 +23,15 @@
         "name": "Pizza Hawaiana",
         "price": 350,
         "description": [
-            ""
+            "Deliciosa combinación de jamón, piña y queso mozzarella sobre una base de salsa de tomate, logrando un equilibrio perfecto entre sabores dulces y salados.",
+            {
+                "label": "Tamaño",
+                "value": "Mediana"
+            },
+            {
+                "label": "Porciones",
+                "value": "6 personas"
+            }
         ],
         "image": "productos/hawaiana.jpg",
         "category": "Principales",
@@ -26,7 +42,15 @@
         "name": "Pizza con hongos",
         "price": 450,
         "description": [
-            ""
+            "Preparada con una selección de hongos frescos, queso mozzarella fundido y salsa de tomate, ofreciendo un sabor suave y una textura irresistible en cada porción.",
+            {
+                "label": "Tamaño",
+                "value": "Mediana"
+            },
+            {
+                "label": "Porciones",
+                "value": "6 personas"
+            }
         ],
         "image": "productos/hongos.png",
         "category": "Principales",
@@ -37,7 +61,15 @@
         "name": "Pizza Española",
         "price": 380,
         "description": [
-            ""
+            "Pizza elaborada con jamón, chorizo español, cebolla y queso mozzarella sobre una base de salsa de tomate, ideal para quienes disfrutan de sabores intensos y tradicionales.",
+            {
+                "label": "Tamaño",
+                "value": "Mediana"
+            },
+            {
+                "label": "Porciones",
+                "value": "6 personas"
+            }
         ],
         "image": "productos/española.jpg",
         "category": "Principales",
@@ -48,7 +80,15 @@
         "name": "Pizza de carne",
         "price": 450,
         "description": [
-            ""
+            "Pizza preparada con carne sazonada, queso mozzarella y salsa de tomate, combinando ingredientes seleccionados para ofrecer un sabor intenso y lleno de personalidad.",
+            {
+                "label": "Tamaño",
+                "value": "Mediana"
+            },
+            {
+                "label": "Porciones",
+                "value": "6 personas"
+            }
         ],
         "image": "productos/carne.jpg",
         "category": "Principales",
@@ -59,7 +99,15 @@
         "name": "Pizza de queso",
         "price": 350,
         "description": [
-            ""
+            "Pizza clásica elaborada con una generosa capa de queso mozzarella fundido sobre salsa de tomate, perfecta para quienes disfrutan del auténtico sabor del queso en cada porción.",
+            {
+                "label": "Tamaño",
+                "value": "Mediana"
+            },
+            {
+                "label": "Porciones",
+                "value": "6 personas"
+            }
         ],
         "image": "productos/queso.jpg",
         "category": "Principales",
